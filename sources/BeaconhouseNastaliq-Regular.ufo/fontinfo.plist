@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>2570</integer>
+    <integer>3213</integer>
     <key>capHeight</key>
-    <integer>1434</integer>
+    <integer>1793</integer>
     <key>copyright</key>
     <string>Copyright 2026 Beaconhouse Group</string>
     <key>descender</key>
-    <integer>-900</integer>
+    <integer>-1125</integer>
     <key>familyName</key>
     <string>Beaconhouse Nastaliq</string>
     <key>italicAngle</key>
@@ -17,9 +17,9 @@
     <key>openTypeHeadCreated</key>
     <string>2026/05/19 06:50:52</string>
     <key>openTypeHheaAscender</key>
-    <integer>2570</integer>
+    <integer>3213</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-900</integer>
+    <integer>-1125</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
@@ -41,27 +41,27 @@
       <integer>7</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>700</integer>
+    <integer>875</integer>
     <key>openTypeOS2StrikeoutSize</key>
-    <integer>100</integer>
+    <integer>125</integer>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>2570</integer>
+    <integer>3213</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-900</integer>
+    <integer>-1125</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>MEHR</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>2570</integer>
+    <integer>3213</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>1000</integer>
+    <integer>1250</integer>
     <key>postscriptUnderlinePosition</key>
-    <integer>-800</integer>
+    <integer>-1000</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>120</integer>
+    <integer>150</integer>
     <key>styleMapFamilyName</key>
     <string>Beaconhouse Nastaliq</string>
     <key>styleMapStyleName</key>
@@ -75,6 +75,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>1024</integer>
+    <integer>1280</integer>
   </dict>
 </plist>
